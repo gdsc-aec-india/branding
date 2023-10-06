@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/gdsc-aec-india/gdsc-aec-web/main/assets/GDSC%20AEC%20BANNER.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/gdsc-aec-india/gdsc-aec-web/main/assets/GDSC%20AEC%20BANNER.jpg" /></p>
 <h1 align="center"><code>&nbsp;GDSC AEC Branding Assets&nbsp;</code></h1></div>
 <p align="center"><img src="assets/GDSC-AEC-Logo.png" height="100px"/></p>
 
